@@ -670,7 +670,7 @@ a.service-heading {
 
 }
 
-.overlay-gallery {
+.ovelay-gallery {
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 40px;
@@ -771,6 +771,9 @@ a.service-heading {
     margin-left: auto;
 }
 
+.carousel-item{
+    background-color: transparent;
+}
 .clients .caro-flex {
     display: flex;
 }
